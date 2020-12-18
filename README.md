@@ -23,19 +23,19 @@ Toolbox: VSCode, Git, GitHub, SciKit Learn, Pandas, Numpy, Matplotlib, Kaggle
 Resources: Kaggle, BeCode course material, in-class helpchat, StackExchange and off course the whole bloody internet (and even the non-bloody internet!)
 
 ## Project todolist
--[ ] Download dataset
--[ ] Clone repository
--[ ] Pre-processing: filter out unneeded data
--[ ] Pre-processing: process data to useful format, shape, etc
--[ ] Analysis: create train/test
--[ ] Analysis: select model
--[ ] Analysis: fit and test model
--[ ] Display evaluation methods
--[ ] Determine desired output format from 'client'(coach)
--[ ] Apply validations: k-cross
--[ ] Apply validations: p-value of predictors
--[ ] Apply validations: f-test
--[ ] Repeat process for each country (goal = 5) (todolist will be edited as needed)
--[ ] Compare regressions and predictions over countries
--[ ] Write report
--[ ] Make presentable output of results
+- [ ] Download dataset
+- [ ] Clone repository
+- [ ] Pre-processing: filter out unneeded data
+- [ ] Pre-processing: process data to useful format, shape, etc
+- [ ] Analysis: create train/test
+- [ ] Analysis: select model
+- [ ] Analysis: fit and test model
+- [ ] Display evaluation methods
+- [ ] Determine desired output format from 'client'(coach)
+- [ ] Apply validations: k-cross
+- [ ] Apply validations: p-value of predictors
+- [ ] Apply validations: f-test
+- [ ] Repeat process for each country (goal = 5) (todolist will be edited as needed)
+- [ ] Compare regressions and predictions over countries
+- [ ] Write report
+- [ ] Make presentable output of results
